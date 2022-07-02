@@ -1,0 +1,18 @@
+
+body{
+    background-color: rgb(203 213 225);
+}
+h1{
+    padding-left: 45%;
+    color: lightblue;
+    background: whitesmoke;
+    font-style:italic;
+    padding-bottom:5px;
+    align-items:center ;
+    border-radius: 45%;
+    
+}
+h1:hover{
+    color:blue;
+    background:lightblue
+}
